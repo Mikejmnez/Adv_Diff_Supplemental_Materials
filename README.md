@@ -7,6 +7,6 @@ Supplemental materials for the JFM paper "Advection Diffusion Equation: An Exact
 Notebooks:
 * `Mathieu_Eigenvalue.ipynb`: Compute and display Mathieu functions, their eigenvalues, Fourier expansions, and various identities.
 * `Shear_Dispersion_Average_Gaussian.ipynb`: Compute the cross-channel average solution for a narrow Gaussian initial condition.
-* `Adv_Diff_IVP_Animation_01.ipynb`: Full time-dependent solution for a low-wavenumber cosine initial condition.
+* `Adv_Diff_IVP_Animation_01.ipynb`: Full time-dependent solution for a cosine initial condition with wavenumber k. The wavenumber k can be modified by the used to better understand the behavior of solutions with different wavelengths. 
 * `Adv_Diff_IVP_Animation_02.ipynb`: Full time-dependent solution for a Gaussian initial condition, plus the average solution.
 * `Ellipse_Approx_Eigenvalues.ipynb`: Elliptical parametrization of the Mathieu eigenvalue dependence on parameter *q*.
