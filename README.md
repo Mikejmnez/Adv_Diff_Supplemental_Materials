@@ -4,6 +4,24 @@
 
 Supplemental materials for the JFM paper "Advection Diffusion Equation: An Exact Solution..."
 
+
+## How to run remotely
+Click on the Binder link above. It takes some time, while installing dependencies and getting the correct environment ready.
+
+## How to run locally
+### on OSX/Linux:
+On the terminal, clone this repository
+
+```git clone https://github.com/Mikejmnez/Adv_Diff_Supplemental_Materials.git```
+
+Navigate into directory and install environment
+
+```conda env create -f environment.yml ```
+
+
+
+
+
 Notebooks:
 * `Mathieu_Eigenvalue.ipynb`: Compute and display Mathieu functions, their eigenvalues, Fourier expansions, and various identities.
 * `Shear_Dispersion_Average_Gaussian.ipynb`: Compute the cross-channel average solution for a narrow Gaussian initial condition.
