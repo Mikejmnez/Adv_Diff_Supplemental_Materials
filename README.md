@@ -14,9 +14,22 @@ On the terminal, clone this repository
 
 ```git clone https://github.com/Mikejmnez/Adv_Diff_Supplemental_Materials.git```
 
-Navigate into directory and install environment
+Navigate into main directory and install environment
 
 ```conda env create -f environment.yml ```
+
+
+Once the environment is install, activate it
+
+```conda activate Advection_Diffusion```
+
+
+Then navivate into `Advection_Diffusion` directory and run the interactive notebooks
+
+```cd Advection_Diffusion```
+``` jupyter lab```
+
+
 
 
 
